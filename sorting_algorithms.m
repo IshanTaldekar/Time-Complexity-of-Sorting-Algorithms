@@ -3,7 +3,7 @@
 % 
 % Program name: sorting_algorithms.m
 %
-% Author: ishantaldekar1@gmail.com
+% Author: Ishan Taldekar
 %
 % Date created: October 15, 2018
 % 
