@@ -3,15 +3,11 @@
 % 
 % Program name: visualize_results
 %
-% Author: ishantaldekar1@gmail.com
+% Author: Ishan Taldekar
 %
 % Date created: October 15, 2018
 % 
 % Purpose: To plot the time complexity data generated.
-%
-% Revision history: 
-% 
-% Date  Author  Ref  Revision
 %
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
