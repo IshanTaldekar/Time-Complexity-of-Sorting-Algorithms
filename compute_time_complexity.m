@@ -4,15 +4,11 @@
 % 
 % Program name: compute_time_complexity
 %
-% Author: ishantaldekar1@gmail.com
+% Author: Ishan Taldekar
 %
 % Date created: October 15, 2018
 % 
 % Purpose: To generate time complexity data for various sorting algorithms.
-%
-% Revision history: 
-% 
-% Date  Author  Ref  Revision
 %
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function compute_time_complexity()
